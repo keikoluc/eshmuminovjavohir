@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+modern+web+applications;Clean+code+and+real+products;Always+learning+and+improving" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=eshmuminovjavohir&label=Profile%20views&color=2563eb&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/eshmuminovjavohir?style=for-the-badge&color=1d4ed8&labelColor=0f172a" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=keikoluc&label=Profile%20views&color=2563eb&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/keikoluc?style=for-the-badge&color=1d4ed8&labelColor=0f172a" alt="followers" />
   <img src="https://img.shields.io/badge/Location-Uzbekistan-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="location" />
 </p>
 
@@ -47,12 +47,12 @@ mindset: Keep building, keep improving
 ## GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=eshmuminovjavohir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" alt="stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshmuminovjavohir&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=keikoluc&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" alt="stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keikoluc&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="languages" />
 </div>
 
 <div align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=eshmuminovjavohir&theme=tokyonight&hide_border=true&border_radius=14" alt="streak" />
+  <img height="175" src="https://streak-stats.demolab.com?user=keikoluc&theme=tokyonight&hide_border=true&border_radius=14" alt="streak" />
 </div>
 
 ---
@@ -60,7 +60,7 @@ mindset: Keep building, keep improving
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshmuminovjavohir&bg_color=0f172a&color=60a5fa&line=38bdf8&point=e2e8f0&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keikoluc&bg_color=0f172a&color=60a5fa&line=38bdf8&point=e2e8f0&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
 ---
@@ -68,7 +68,7 @@ mindset: Keep building, keep improving
 ## Highlight Zone
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshmuminovjavohir&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" width="100%" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=keikoluc&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" width="100%" alt="trophies" />
 </div>
 
 ---
@@ -90,7 +90,7 @@ mindset: Keep building, keep improving
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eshmuminovjavohir/eshmuminovjavohir/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/keikoluc/keikoluc/output/snake.svg" alt="snake animation" />
 </div>
 
 ---
@@ -101,7 +101,7 @@ mindset: Keep building, keep improving
   <a href="mailto:2401044j@jdu.uz">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/eshmuminovjavohir">
+  <a href="https://github.com/keikoluc">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://t.me/Javohir_03_07">
